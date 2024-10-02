@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+    /* Cores */
+    --white: #FFFFFF;
+    --red: #F53838;
+    --gray: #4F5665;
+    --gray1: #DDDDDD;
+    --black: #0B132A;
+
+
+
+    --ruby: medium 50px 'Rubik', sans-serif;
+    --ruby1: medium 35px 'Rubik', sans-serif;
+    --ruby2: normal 20px 'Rubik', sans-serif;
+    --ruby3: medium 18px 'Rubik', sans-serif;
+    --ruby4: normal 16px 'Rubik', sans-serif;
+    --ruby5: bold 16px 'Rubik', sans-serif;
+    --ruby6: normal 14px 'Rubik', sans-serif;
+
+}
